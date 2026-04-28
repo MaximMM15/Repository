@@ -1,28 +1,33 @@
+# Mi primer ejercicio en Markdown H1
+Este ejercicio es para practicar lenguaje de marcado MD o Markdown 
+## Texto de énfasis (Negrita e Itálica)
+*Italica*
 
-# ✳️**Mi Perfil**✳️
-![](https://img.freepik.com/premium-photo/anime-scene-forest-with-stream-waterfall-generative-ai_958165-28067.jpg)
-## ✳️Hola, mi nombre es Maxim Martinez Marroquin✳️
-| **Gacha Juego**  | Cuánto Me Gusta |
-| -                | -               |
-| **Genshin Impact**    | 6/10       |
-| **Zenless Zone Zero** | 8/10       |
-| **Star Rail**         | 9/10       |
-| **Reverse 1999**      | 7/10       |
-| **Wuthering Waves**   | 6/10       |
-| **Arknights Endfield** | 8/10      |
+**Negritas o BOLD**
 
-## ***Info:***
-Estoy estudiando diseño digital para medios interactivos (DDMI) en la UACJ y es mi primer semestre.
+***Negritas itálicas o BOLD itálicas***
 
-## Mis Intereses:
-- El Anime
-- Los Videojuegos
-- Dibujar
-- Cerámica
+## Tabla
 
-## Mi Top 5 de Comida:
-1. Pie De Queso
-2. Chile Rellenos
-3. Tacos De Tripitas
-4. Spaghetti
-5. Sushi
+| Columna 1 | Columna 2 | 
+| -         | -       |
+| Celda A1  | Celda B1 |
+
+## Imagen
+![](https://assetsio.gnwcdn.com/Zenless_Zone_Zero_Belle_Wise_8.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp)
+
+## Listas
+Se pueden hacer dos tipos de listas. Ordenadas y no ordenadas
+### Listas ordenadas
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+
+### Listas no ordenadas
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
+
+
+
